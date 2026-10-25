@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 筛选行业里的同行公司｜FinanceDatabase
+
+> **一句话看懂：按行业和国家筛选同行公司。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 按行业和国家筛选同行公司。 |
+| 怎么使用 | 用Python按国家、行业和资产类型筛选公司名单。 |
+| 适合谁 | 想找可比公司、建立研究样本的人。 |
+| 主要限制 | 不提供实时股价和完整财务数据。 |
+| 后续可以怎么改 | 接上财报数据，避免重复计算多地上市公司。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 <!-- mcp-name: io.github.JerBouma/financedatabase -->
 [![FinanceDatabase](https://user-images.githubusercontent.com/46355364/220746807-669cdbc1-ac67-404c-b0bb-4a3d67d9931f.jpg)](https://github.com/JerBouma/FinanceDatabase)
 
@@ -495,3 +520,6 @@ If you have any questions about the FinanceDatabase or would like to share with 
 If you'd like to support my efforts, either help me out via the [Contributing Guidelines](https://github.com/JerBouma/FinanceDatabase/blob/main/CONTRIBUTING.md) or [Sponsor Me](https://github.com/sponsors/JerBouma).
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=JerBouma/FinanceDatabase&type=Date)](https://star-history.dera.page/#JerBouma/FinanceDatabase&Date)
+
+
+</details>
